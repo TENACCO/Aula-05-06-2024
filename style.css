@@ -4,11 +4,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    margin: 0;
-    display: flex;
-    justify-content: center;
-    aling-items: center;
-    height: 100vh;
+    margin: 20px;
 }
 
 h1 {
