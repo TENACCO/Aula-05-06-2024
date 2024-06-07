@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f085;
+    margin: 20px;
+}
+
+    .background {
+    background-image: url(971.jpg); /* Caminho para sua imagem de fundo */
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    .content {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    }
+    }
+    h1 {
+    color: #333;
+    position: center;
+    }
+    button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    }
+    button:hover {
+    background-color: #0056b3;
+    }
+    #mensagem {
+    color: #007BFF;
+    font-weight: bold;
+    }
+    #textoAlterado {
+    color: #555;
+    font-style: italic;
+    }
+    a {
+    color: #007BFF;
+    text-decoration: none;
+    }
+    a:hover {
+    text-decoration: underline;
+    }
